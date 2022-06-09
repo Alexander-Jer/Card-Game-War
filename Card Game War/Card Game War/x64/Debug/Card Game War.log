@@ -1,0 +1,3 @@
+﻿  Card Game War.cpp
+C:\Users\Alexander\Desktop\Assingments to turn in to school\Card Game War\Card Game War\Card Game War.cpp(45,19): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Card Game War.vcxproj -> C:\Users\Alexander\Desktop\Assingments to turn in to school\Card Game War\x64\Debug\Card Game War.exe
